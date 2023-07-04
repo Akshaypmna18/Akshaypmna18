@@ -1,3 +1,3 @@
-### Main account (https://github.com/Akshaypmna)https://github.com/Akshaypmna
+### Main account https://github.com/Akshaypmna
 
 
