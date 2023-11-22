@@ -1,5 +1,9 @@
 <div align=center>
   <br/><br/>
+  <h3 align="center">Account for my personal projects</h3>
+  <br/>
+  <h3 align="center">Explore my repositories</h3>
+  <br/>
   <h3 align="center">Main account - https://www.github.com/akshaypmna</h3>
   <br/>
   <h3 align="center">Portfolio - https://akshaypmna.github.io</h3>
