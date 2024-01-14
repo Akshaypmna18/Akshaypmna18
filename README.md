@@ -1,12 +1,9 @@
 <div align=center>
   <br/><br/>
   <h3 align="center">Account for my personal projects👾</h3>
-  <br/>
   <h3 align="center">Explore my repositories🌟</h3>
-  <br/>
-  <h3 align="center">Main account - https://www.github.com/akshaypmna</h3>
-  <br/>
-  <h3 align="center">Portfolio - https://akshaypmna.github.io</h3>
+  <h3 align="center"><a href="https://www.github.com/akshaypmna" target="_blank">Main account</a></h3>
+  <h3 align="center"><a href="https://akshaypmna.github.io" target="_blank">Portfolio</a></h3>
   <br/>
 
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
