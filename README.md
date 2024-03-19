@@ -11,7 +11,7 @@
 <div align="center">
 <br/>
 
-<h3>Front-end Dev | UI/UX Developer | Freelancer</h3>
+<h3>Front-end Dev | UI/UX Dev | Freelancer</h3>
  <br/><br/> 
   <a href="https://linkedin.com/in/akshaypmna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -30,7 +30,7 @@
 
 <div align="center"><br/>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,redux,tailwind,git,vitest" /> <br/>
-    <img src="https://skillicons.dev/icons?i=postman,figma,nodejs,expressjs,mongodb,prisma,sass,bootstrap,jquery,firebase" />
+    <img src="https://skillicons.dev/icons?i=figma,sass,bootstrap,jquery,firebase,postman,nodejs,expressjs,mongodb,prisma" />
 </div>
 <br/>
 
