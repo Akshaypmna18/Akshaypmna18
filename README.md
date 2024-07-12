@@ -29,8 +29,8 @@
 <h3 align="center">⚒️ Skills: Languages, Frameworks, Tools ⚒️</h3>
 
 <div align="center"><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,redux,tailwind,git,vitest" /> <br/>
-    <img src="https://skillicons.dev/icons?i=figma,sass,bootstrap,jquery,firebase,nodejs,expressjs,mongodb,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,redux,tailwind,git,vitest,astro" /> <br/>
+    <img src="https://skillicons.dev/icons?i=figma,sass,bootstrap,jquery,firebase,nodejs,expressjs,mongodb,postgres,prisma,materialui" />
 </div>
 <br/>
 
