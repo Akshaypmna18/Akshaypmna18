@@ -11,7 +11,7 @@
 <div align="center">
 <br/>
 
-<h3>Front-stack Dev | MERN | Next.js | React Native</h3>
+<h3>Full-stack Dev | MERN | Next.js | React Native</h3>
  <br/><br/> 
   <a href="https://linkedin.com/in/akshaypmna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
