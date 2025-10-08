@@ -11,12 +11,12 @@
 <div align="center">
 <br/>
 
-<h3>Front-end Dev | Next.js | React Native | MERN</h3>
+<h3>Front-stack Dev | MERN | Next.js | React Native</h3>
  <br/><br/> 
   <a href="https://linkedin.com/in/akshaypmna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://bento.me/akshaypmna" target="_blank">
+  <a href="https://aks-dev.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-B8860B?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="https://twitter.com/akshaypmna18" target="_blank">
